@@ -1,0 +1,10 @@
+Key - weather.jks
+password - pansuriya
+alias - het
+alias password - pansuriya
+
+
+First name - Pansuriya Het
+Org unit - Pansuriya Het
+Org - Pansuriya
+City - Ahmedabad, Gujarat, 91
